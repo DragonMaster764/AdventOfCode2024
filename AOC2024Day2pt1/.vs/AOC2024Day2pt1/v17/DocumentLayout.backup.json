@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE2AC5-A767-4BEF-A8BF-9A6A31FB5BB8}|AOC2024Day2pt1\\AOC2024Day2pt1.vcxproj|C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BDE2AC5-A767-4BEF-A8BF-9A6A31FB5BB8}|AOC2024Day2pt1\\AOC2024Day2pt1.vcxproj|solutionrelative:AOC2024Day2pt1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDE2AC5-A767-4BEF-A8BF-9A6A31FB5BB8}|AOC2024Day2pt1\\AOC2024Day2pt1.vcxproj|C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BDE2AC5-A767-4BEF-A8BF-9A6A31FB5BB8}|AOC2024Day2pt1\\AOC2024Day2pt1.vcxproj|solutionrelative:AOC2024Day2pt1\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Input.txt",
+              "RelativeDocumentMoniker": "AOC2024Day2pt1\\Input.txt",
+              "ToolTip": "C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Input.txt",
+              "RelativeToolTip": "AOC2024Day2pt1\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcDAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T12:59:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Source.cpp",
+              "RelativeDocumentMoniker": "AOC2024Day2pt1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Tanne\\source\\repos\\AOC2024Day2pt1\\AOC2024Day2pt1\\Source.cpp*",
+              "RelativeToolTip": "AOC2024Day2pt1\\Source.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T12:58:58.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
