@@ -2,3 +2,5 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
 Site can be found at https://adventofcode.com/
+
+All code by DragonMaster764
