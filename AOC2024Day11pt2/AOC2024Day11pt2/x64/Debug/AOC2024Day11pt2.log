@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOC2024Day11pt2\AOC2024Day11pt2\Source.cpp(38,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanne\source\repos\AOC2024Day11pt2\AOC2024Day11pt2\Source.cpp(51,26): warning C4018: '<': signed/unsigned mismatch
+  AOC2024Day11pt2.vcxproj -> C:\Users\Tanne\source\repos\AOC2024Day11pt2\x64\Debug\AOC2024Day11pt2.exe
