@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOC2024Day14pt2\AOC2024Day14pt2\Source.cpp(249,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day14pt2\AOC2024Day14pt2\Source.cpp(250,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AOC2024Day14pt2.vcxproj -> C:\Users\Tanne\source\repos\AOC2024Day14pt2\AOC2024Day14pt2\x64\Debug\AOC2024Day14pt2.exe
