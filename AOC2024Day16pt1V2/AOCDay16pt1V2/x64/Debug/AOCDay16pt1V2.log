@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOCDay16pt1V2\AOCDay16pt1V2\Source.cpp(192,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOCDay16pt1V2\AOCDay16pt1V2\Source.cpp(214,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOCDay16pt1V2\AOCDay16pt1V2\Source.cpp(236,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOCDay16pt1V2\AOCDay16pt1V2\Source.cpp(258,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  AOCDay16pt1V2.vcxproj -> C:\Users\Tanne\source\repos\AOCDay16pt1V2\x64\Debug\AOCDay16pt1V2.exe
