@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(80,35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(113,52): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(119,26): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(120,39): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(138,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(140,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(222,25): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(265,25): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Tanne\source\repos\AOC2024Day17pt2\AOC2024Day17pt2\Source.cpp(272,25): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  AOC2024Day17pt2.vcxproj -> C:\Users\Tanne\source\repos\AOC2024Day17pt2\x64\Debug\AOC2024Day17pt2.exe
